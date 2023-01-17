@@ -1,3 +1,5 @@
+package Singleton;
+
 import Singleton.City;
 
 public class Main {
