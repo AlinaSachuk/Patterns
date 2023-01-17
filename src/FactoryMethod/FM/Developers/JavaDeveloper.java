@@ -3,7 +3,7 @@ package FactoryMethod.FM.Developers;
 public class JavaDeveloper implements Developer {
     @Override
     public String getCourse() {
-        return "JAVA.";
+        return "JAVA";
     }
 
     @Override

@@ -1,9 +1,9 @@
 package FactoryMethod.FM.Developers;
 
-public class CppDeveloper implements Developer{
+public class CppDeveloper implements Developer {
     @Override
     public String getCourse() {
-        return "C++";
+        return "C++.";
     }
 
     @Override

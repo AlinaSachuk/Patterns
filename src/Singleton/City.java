@@ -2,10 +2,10 @@ package Singleton;
 
 public class City {
     private static City instance;
-    public String name;
+    public String cityName;
 
     private City(String name) {
-        this.name = name;
+        this.cityName = name;
     }
 
     public static City creator(String name) {

@@ -1,9 +1,9 @@
 package FactoryMethod.FM.Developers;
 
-public class PythonDeveloper implements Developer{
+public class PythonDeveloper implements Developer {
     @Override
     public String getCourse() {
-        return "Python";
+        return "Python.";
     }
 
     @Override
