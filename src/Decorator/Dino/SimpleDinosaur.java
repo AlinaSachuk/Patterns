@@ -1,4 +1,4 @@
-package Decorator;
+package Decorator.Dino;
 
 public class SimpleDinosaur implements IDinosaur {
     @Override

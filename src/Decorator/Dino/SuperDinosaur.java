@@ -1,4 +1,4 @@
-package Decorator;
+package Decorator.Dino;
 
 public class SuperDinosaur extends DinoDecorator{
     public SuperDinosaur(IDinosaur iDinosaur) {

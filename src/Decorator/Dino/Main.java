@@ -1,4 +1,4 @@
-package Decorator;
+package Decorator.Dino;
 
 public class Main {
     public static void main(String[] args) {
